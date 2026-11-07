@@ -1,6 +1,5 @@
 @font-face{font-family:UOKUDisplay;src:url("fonts/UOKU-Display-Regular.woff2") format("woff2");font-display:swap}
 @font-face{font-family:UOKUText;src:url("fonts/UOKU-Text-Regular.woff2") format("woff2");font-display:swap}
-@font-face{font-family:UOKUDisplay;src:url("fonts/UOKU-Display-Medium.woff2") format("woff2");font-weight:500;font-display:swap}
 #uoku104-root{--plum:#391D30;--cream:#FAF6F1;--mauve:#B7A3AE;--pale:#E8DEE4;--gold:#B59A68;--muted:#806B79;color:var(--plum);background:var(--cream);font-family:UOKUText,Arial,sans-serif;position:relative;isolation:isolate;z-index:1}
 #uoku104-root *{box-sizing:border-box}
 #uoku104-root button,#uoku104-root input,#uoku104-root textarea{font:inherit}
